@@ -1,1 +1,9 @@
-/ 100
+38 / 100
+
++10 extra
+
+no examples of:
+-7: run a command in another directory, command with >10 no. of params
+-35: connectors
+-15: exit with params passed to it, exit as a param, exit in chain of commands
+-20: comments
